@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anis Syafiah
 
-<!--
-**AnisSyafiah/AnisSyafiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in software engineering and AI
 
-Here are some ideas to get you started:
+## About me
+- Studying: Computer Science, UiTM
+- Currently learning: Machine Learning
+- My FYP area: still deciding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Python, Git, SQL,html,java,c++
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: [a professional email address]
