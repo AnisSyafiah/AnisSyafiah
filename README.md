@@ -11,7 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI
 Python, Git, SQL,html,java,c++
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- [Project name](link-to-your-repository): Personalized Skincare Ingredient Compatibility Assessment System using Machine Learning 
 
 ## Contact
 - LinkedIn: [your profile link]
